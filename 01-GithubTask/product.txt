@@ -1,0 +1,2 @@
+Kitablar -100
+laptop -200
